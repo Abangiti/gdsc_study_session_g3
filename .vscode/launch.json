@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/hp/GDSC_G3/gdsc_study_session_g3/gdsc_study_session_g3-2",
-      "program": "c:/Users/hp/GDSC_G3/gdsc_study_session_g3/gdsc_study_session_g3-2/build/Debug/outDebug",
+      "cwd": "c:/Users/hp/GDSC_G3/gdsc_study_session_g3/gdsc_study_session_g3-3",
+      "program": "c:/Users/hp/GDSC_G3/gdsc_study_session_g3/gdsc_study_session_g3-3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
